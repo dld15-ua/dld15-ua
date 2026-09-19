@@ -5,7 +5,7 @@
 
 Estudiante de Ingeniería Informática (Especialización en Ingeniería del Software) en la Universidad de Alicante. Enfocado en el desarrollo backend, diseño de sistemas distribuidos y arquitectura de software.
 
-### Stack Tecnológico
+## Stack Tecnológico
 
 **Lenguajes** <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -18,7 +18,7 @@ Estudiante de Ingeniería Informática (Especialización en Ingeniería del Soft
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 
-**Arquitectura, Herramientas y Frameworks** <br>
+**Herramientas y Frameworks** <br>
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
